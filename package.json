@@ -1,0 +1,11 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "\"Simple App, with Simple APIs\"",
+  "main": "app.js",
+  "author": "Nikhil Kushwaha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
